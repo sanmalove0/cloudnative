@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: geektime-config
+  namespace: default
+data:
+  VERSION: v1.0
